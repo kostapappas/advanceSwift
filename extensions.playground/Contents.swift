@@ -2,7 +2,7 @@
 
 import UIKit
 
-var str = "Hello, playground"
+let a = "filllter".frequencies
 
-str.showMe()
+
 
